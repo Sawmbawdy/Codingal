@@ -1,0 +1,5 @@
+print("Hello, My name is Saiom and this is all about me -- \n")
+print("-- I am 11 years old and going to be 12 at October")
+print("-- I am a boy going to 7th grade")
+print("-- I like PBJ's")
+print("-- My favorite color is yellow and my favorite number is 3")
